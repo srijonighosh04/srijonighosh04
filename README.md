@@ -1,22 +1,188 @@
-# Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-I’m currently working on:<br><br>Building projects in Data Structures & Algorithms, Java, Python and Cybersecurity fundamentals, while sharpening my problem-solving skills through consistent coding practice.<br><br>I’m looking to collaborate on:<br><br>Beginner-friendly open source projects, DSA practice, or cybersecurity / backend-focused projects where I can learn by building with others.<br><br>I’m looking for help with:<br><br>Writing cleaner, more efficient code and understanding system-level concepts beyond just “it works.”<br><br>I’m currently learning:<br><br>Advanced DSA, Java, Python and core cybersecurity concepts like encryption, network security, and secure system design.<br><br>Just a girl trying to learn to be a better coder, one bug at a time :)
+# Hey, I'm Srijoni Ghosh 👋
 
+### 🔐 Cybersecurity Student • ⛓️ Blockchain Developer • 🤖 AI Builder
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Building+Secure+and+Intelligent+Systems;Cybersecurity+%7C+AI+%7C+Blockchain;Hackathon+Builder;Turning+Ideas+Into+Projects;Powered+by+Curiosity+and+Caffeine" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=srijonighosh04&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=srijonighosh04&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srijonighosh04&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=srijonighosh04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=srijonighosh04&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br><br>
 
+<a href="www.linkedin.com/in/srijoni-ghosh-ba06a9379">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="mailto:srijonisonu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/srijonighosh04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🙋‍♀️ About Me
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌱 What I'm Doing
+
+* 🎓 B.Tech in Cybersecurity
+* 🔐 Exploring Security Engineering
+* 🤖 Building AI-powered applications
+* ⛓️ Developing Blockchain projects
+* 💻 Practicing DSA & Problem Solving
+* 🚀 Participating in Hackathons
+
+</td>
+
+<td width="50%">
+
+### ⚡ Fun Facts
+
+* ☕ Debugging is my cardio
+* 🌙 Most productive after sunset
+* 📚 Always learning something new
+* 🛡️ Passionate about AI Security
+* 🐛 Professional bug creator
+* 🐶 Dog-approved developer
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="25%">
+
+## 🛡️ SentinelAI
+
+AI Model Integrity Verification using Blockchain.
+
+**Tech:**
+Solidity • Ethereum • AI Security
+
+</td>
+
+<td width="25%">
+
+## 🧠 NexusIQ
+
+AI-powered Organizational Knowledge Continuity Platform.
+
+**Tech:**
+Next.js • FastAPI • Gemini
+
+</td>
+
+<td width="25%">
+
+## ⭐ NorthStarAI
+
+AI Productivity & Accountability Assistant.
+
+**Tech:**
+FastAPI • Gemini • React
+
+</td>
+
+<td width="25%">
+
+## 🏥 MedLeak Hunter
+
+Healthcare Data Exposure Detection System.
+
+**Tech:**
+Cybersecurity • AI • Analysis
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,solidity"/>
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi,nodejs,git,github,vscode"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,firebase,mysql"/>
+</p>
+
+### Interests
+
+```text
+Cybersecurity
+AI Security
+Blockchain
+Secure Software Development
+Threat Analysis
+System Design
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srijonighosh04&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijonighosh04&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srijonighosh04&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+* Land an Internship
+* Build more AI + Security projects
+* Contribute to Open Source
+* Strengthen DSA & System Design
+* Explore AI Security Research
+
+---
+
+<div align="center">
+
+### ✨ Building things. Breaking things. Learning things. Repeating. ✨
+
+</div>
