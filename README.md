@@ -1,3 +1,7 @@
+
+
+
+
 <div align="center">
 
 # Hey, I'm Srijoni Ghosh 👋
@@ -136,17 +140,11 @@ Cybersecurity • AI • Analysis
 <img src="https://skillicons.dev/icons?i=sqlite,firebase,mysql"/>
 </p>
 
-### Interests
+<div align="center">
 
-```text
-Cybersecurity
-AI Security
-Blockchain
-Secure Software Development
-Threat Analysis
-System Design
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srijonighosh04&theme=tokyo-night&hide_border=true"/>
 
+</div>
 ---
 
 # 📊 GitHub Stats
