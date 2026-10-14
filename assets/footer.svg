@@ -1,0 +1,6 @@
+<svg width="1000" height="130" viewBox="0 0 1000 130" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace">
+<path d="M0,60 L110,60 L125,60 L140,30 L150,90 L162,12 L175,60 L195,60 L460,60 L475,60 L490,30 L500,90 L512,12 L525,60 L545,60 L810,60 L825,60 L840,30 L850,90 L862,12 L875,60 L895,60 L1000,60" fill="none" stroke="#1b4b8a" stroke-width="2"/>
+<path d="M0,60 L110,60 L125,60 L140,30 L150,90 L162,12 L175,60 L195,60 L460,60 L475,60 L490,30 L500,90 L512,12 L525,60 L545,60 L810,60 L825,60 L840,30 L850,90 L862,12 L875,60 L895,60 L1000,60" pathLength="100" fill="none" stroke="#4cc9f0" stroke-width="3" stroke-linecap="round" stroke-dasharray="14 86"><animate attributeName="stroke-dashoffset" from="14" to="-86" dur="3.5s" repeatCount="indefinite"/></path>
+<circle cx="372" cy="108" r="5" fill="#27c93f"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="388" y="113" font-size="14" fill="#8fa3c4">SYSTEM STATUS: online · building · breaking · learning · repeating</text>
+</svg>

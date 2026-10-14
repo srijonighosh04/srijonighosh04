@@ -1,0 +1,16 @@
+<svg width="900" height="352" viewBox="0 0 900 352" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace">
+<rect x="1" y="1" width="898" height="350" rx="14" fill="#07111f" stroke="#1b4b8a" stroke-width="2"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 H885 a14 14 0 0 1 14 14 V44 H1 Z" fill="#0d1b2a"/>
+<circle cx="26" cy="23" r="6" fill="#ff5f56"/><circle cx="48" cy="23" r="6" fill="#ffbd2e"/><circle cx="70" cy="23" r="6" fill="#27c93f"/>
+<text x="450" y="28" font-size="13" fill="#8fa3c4" text-anchor="middle">srijoni@sentinel: ~/about</text>
+<text x="28" y="92" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#4cc9f0">$ </tspan><tspan fill="#e6f1ff">whoami</tspan><set attributeName="opacity" to="1" begin="0.6s" fill="freeze"/></text>
+<text x="28" y="116" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#8fa3c4">  srijoni_ghosh — cybersecurity student, builder, hackathon regular</tspan><set attributeName="opacity" to="1" begin="1.2s" fill="freeze"/></text>
+<text x="28" y="150" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#4cc9f0">$ </tspan><tspan fill="#e6f1ff">cat focus.txt</tspan><set attributeName="opacity" to="1" begin="2.0s" fill="freeze"/></text>
+<text x="28" y="174" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#8fa3c4">  [security engineering]  [AI-powered apps]  [blockchain]</tspan><set attributeName="opacity" to="1" begin="2.6s" fill="freeze"/></text>
+<text x="28" y="208" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#4cc9f0">$ </tspan><tspan fill="#e6f1ff">./vitals --verbose</tspan><set attributeName="opacity" to="1" begin="3.4s" fill="freeze"/></text>
+<text x="28" y="232" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#8fa3c4">  caffeine </tspan><tspan fill="#4cc9f0">████████░░</tspan><tspan fill="#8fa3c4"> 82%    bugs_squashed </tspan><tspan fill="#27c93f">▲ ∞</tspan><tspan fill="#8fa3c4">    sleep </tspan><tspan fill="#ff79c6">▼ lol</tspan><set attributeName="opacity" to="1" begin="4.0s" fill="freeze"/></text>
+<text x="28" y="266" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#4cc9f0">$ </tspan><tspan fill="#e6f1ff">./open_to --internships</tspan><set attributeName="opacity" to="1" begin="4.8s" fill="freeze"/></text>
+<text x="28" y="290" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#27c93f">  ACCESS GRANTED ✔</tspan><tspan fill="#8fa3c4">   (say hi, I don't bite, I only fuzz)</tspan><set attributeName="opacity" to="1" begin="5.4s" fill="freeze"/></text>
+<text x="28" y="324" font-size="16" opacity="0" xml:space="preserve"><tspan fill="#4cc9f0">$ </tspan><set attributeName="opacity" to="1" begin="6.2s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="6.2s" fill="freeze"/><rect x="46" y="309" width="10" height="18" fill="#4cc9f0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>

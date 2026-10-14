@@ -1,186 +1,105 @@
-
-
-
-
 <div align="center">
 
-# Hey, I'm Srijoni Ghosh 👋
+<img src="assets/header.svg" alt="Srijoni Ghosh — Cybersecurity × Blockchain × AI" width="100%"/>
 
-### 🔐 Cybersecurity Student • ⛓️ Blockchain Developer • 🤖 AI Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Building+Secure+and+Intelligent+Systems;Cybersecurity+%7C+AI+%7C+Blockchain;Hackathon+Builder;Turning+Ideas+Into+Projects;Powered+by+Curiosity+and+Caffeine" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=srijonighosh04&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+<img src="assets/terminal.svg" alt="terminal intro" width="90%"/>
 
 <br><br>
 
-<a href="www.linkedin.com/in/srijoni-ghosh-ba06a9379">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:srijonisonu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/srijonighosh04">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/srijoni-ghosh-ba06a9379"><img src="https://img.shields.io/badge/LinkedIn-1b4b8a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:srijonisonu@gmail.com"><img src="https://img.shields.io/badge/Email-0d1b2a?style=for-the-badge&logo=gmail&logoColor=4cc9f0" alt="Email"/></a>
+<a href="https://github.com/srijonighosh04"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=srijonighosh04&label=Visitors&color=4cc9f0&style=for-the-badge" alt="Visitors"/>
 
 </div>
 
----
+<!-- psst: reading the source? You're my kind of person. srijonisonu@gmail.com -->
 
-# 🙋‍♀️ About Me
+<br>
 
-<table align="center">
-<tr>
-<td width="50%">
+## `// CASE FILES`
 
-### 🌱 What I'm Doing
-
-* 🎓 B.Tech in Cybersecurity
-* 🔐 Exploring Security Engineering
-* 🤖 Building AI-powered applications
-* ⛓️ Developing Blockchain projects
-* 💻 Practicing DSA & Problem Solving
-* 🚀 Participating in Hackathons
-
-</td>
-
-<td width="50%">
-
-### ⚡ Fun Facts
-
-* ☕ Debugging is my cardio
-* 🌙 Most productive after sunset
-* 📚 Always learning something new
-* 🛡️ Passionate about AI Security
-* 🐛 Professional bug creator
-* 🐶 Dog-approved developer
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
+<div align="center">
 <table>
 <tr>
-
-<td width="25%">
-
-## 🛡️ SentinelAI
-
-AI Model Integrity Verification using Blockchain.
-
-**Tech:**
-Solidity • Ethereum • AI Security
-
-</td>
-
-<td width="25%">
-
-## 🧠 NexusIQ
-
-AI-powered Organizational Knowledge Continuity Platform.
-
-**Tech:**
-Next.js • FastAPI • Gemini
-
-</td>
-
-<td width="25%">
-
-## ⭐ NorthStarAI
-
-AI Productivity & Accountability Assistant.
-
-**Tech:**
-FastAPI • Gemini • React
-
-</td>
-
-<td width="25%">
-
-## 🏥 MedLeak Hunter
-
-Healthcare Data Exposure Detection System.
-
-**Tech:**
-Cybersecurity • AI • Analysis
-
-</td>
-
+<td><a href="https://github.com/srijonighosh04"><img src="assets/card-sentinelai.svg" alt="SentinelAI" width="440"/></a></td>
+<td><a href="https://github.com/srijonighosh04"><img src="assets/card-nexusiq.svg" alt="NexusIQ" width="440"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/srijonighosh04"><img src="assets/card-northstarai.svg" alt="NorthStarAI" width="440"/></a></td>
+<td><a href="https://github.com/srijonighosh04"><img src="assets/card-medleak-hunter.svg" alt="MedLeak Hunter" width="440"/></a></td>
 </tr>
 </table>
+</div>
 
----
+<br>
 
-# 🛠️ Tech Stack
+## `// LOADOUT`
 
-### Languages
+<div align="center">
+<table>
+<tr><td align="center"><sub><code>LANGUAGES</code></sub></td><td><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,solidity&theme=dark" alt="languages"/></td></tr>
+<tr><td align="center"><sub><code>WEAPONS</code></sub></td><td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi,nodejs" alt="frameworks"/></td></tr>
+<tr><td align="center"><sub><code>VAULTS</code></sub></td><td><img src="https://skillicons.dev/icons?i=sqlite,firebase,mysql" alt="databases"/></td></tr>
+<tr><td align="center"><sub><code>GEAR</code></sub></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools"/></td></tr>
+</table>
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,solidity"/>
-</p>
+<br>
 
-### Frameworks & Tools
+## `// PATCH NOTES v2028.0`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi,nodejs,git,github,vscode"/>
-</p>
+```diff
++ Added:    unreasonable amounts of caffeine (debugging is my cardio)
++ Added:    a dog-approved code review process
++ Added:    passion for AI security (yes, it's a problem)
+! Changed:  most productive hours → after sunset
+- Removed:  fear of bugs (professional bug creator, even more professional exterminator)
+~ Known issue: always learning something new, cannot be patched
+```
 
-### Databases
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,firebase,mysql"/>
-</p>
+## `// INTEL REPORT`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srijonighosh04&theme=tokyo-night&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=srijonighosh04&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=4cc9f0&text_color=c9d6ea&icon_color=7aa2f7&ring_color=4cc9f0" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijonighosh04&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=4cc9f0&text_color=c9d6ea" alt="Top languages"/>
 
-</div>
----
+<img src="https://streak-stats.demolab.com/?user=srijonighosh04&hide_border=true&background=0d1b2a&ring=4cc9f0&fire=7aa2f7&currStreakLabel=4cc9f0&sideLabels=c9d6ea&currStreakNum=ffffff&sideNums=ffffff&dates=8fa3c4" alt="GitHub streak"/>
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srijonighosh04&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijonighosh04&layout=compact&theme=tokyonight"/>
+<picture>
+<img src="https://raw.githubusercontent.com/srijonighosh04/srijonighosh04/output/github-snake-dark.svg" alt="Contribution snake"/>
+</picture>
 
 </div>
 
----
+<br>
 
-# 🔥 GitHub Streak
+## `// QUEST LOG`
 
-<div align="center">
+- [ ] 💼 **Main quest:** land an internship
+- [ ] 🔐 Build more AI + security projects
+- [ ] 🌍 Contribute to open source
+- [ ] 🧩 Level up DSA & system design
+- [ ] 🔬 Side quest: AI security research
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srijonighosh04&theme=tokyonight"/>
+<details>
+<summary><b>🔓 Secret vault</b> (click, if you dare)</summary>
 
-</div>
+<br>
 
----
+Decrypt this to unlock the hidden message:
 
-# 🎯 Current Goals
+```
+WW91IGZvdW5kIGl0ISBIaXJlIG1lOiBJIGRlYnVnIGluIG15IHNsZWVwLiBMZXQncyB0YWxrLg==
+```
 
-* Land an Internship
-* Build more AI + Security projects
-* Contribute to Open Source
-* Strengthen DSA & System Design
-* Explore AI Security Research
+<sub>Hint: it's base64. Recruiters who solve it get bonus points.</sub>
 
----
+</details>
 
-<div align="center">
+<br>
 
-### ✨ Building things. Breaking things. Learning things. Repeating. ✨
-
-</div>
+<img src="assets/footer.svg" alt="system status" width="100%"/>
